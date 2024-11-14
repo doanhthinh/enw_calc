@@ -279,7 +279,7 @@ function show_data() {
       "<th>Ngày</th>" +
       "<th>Thời gian</th>" +
       "<th>Số điện tiêu thụ (kWh)</th>" +
-      "<th>Số nước tiêu thụ (Lít)</th>" +
+      "<th>Số nước tiêu thụ (m3)</th>" +
       "<th>Tiền điện phải trả (VNĐ)</th>" +
       "<th>Tiền nước phải trả (VNĐ)</th>" +
       "<th>Tổng (VNĐ)</th>" +
